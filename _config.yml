@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "Simon"
+title_right   : "Kurgan" # default: ""
+description   : "Simon Kurgan Personal Website"
+keywords      : "Simon Kurgan, Simon K, Kurgan, Software, Engineer"
+url           : https://simku22.github.io/simonkurgan/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Simon Kurgan"
 
 plugins:
   - jekyll-sitemap
