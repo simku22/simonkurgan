@@ -8,8 +8,10 @@ Hello! I'm Simon. I'm a freshman at the University of Washington studying Inform
 
 ## Work Experience
 
-- 
-
+- Grade Potential Tutoring | Academic Tutor | Sep 2022 - May 2023 (Seattle, WA)
+    * Worked with one long-term student in Mathematics and Statistics over the course of 3 months. 
+    * Coordinated and involved parents in students' learning to ensure success.
+    * Identified creative ways to reiterate complex topics in student classes.
 
 ## Skills
 
