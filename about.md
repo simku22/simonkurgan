@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<body>
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-        <img src="DSCF3605.JPG" style="max-width: 50%; max-height: 50%;">
-    </div>
-</body>
+<img src="DSCF3605.JPG" style="max-width: 50%; max-height: 50%;">
 
 Hello! I'm Simon. I'm a freshman at the University of Washington studying Information Technology (Software Development & Information Architecture). I'm currently exploring coursework and projects in data visualization and data engineering, as I gear up for research and work this upcoming year. Here you can find listed my relevant work experience, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20.
 
