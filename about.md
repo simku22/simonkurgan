@@ -9,17 +9,20 @@ Hello! I'm Simon. I'm a freshman at the University of Washington studying Inform
 ## Work Experience
 
 Grade Potential Tutoring | Academic Tutor | Sep. 2022 - May 2023 (Seattle, WA)
+
     * Worked with one long-term student in Mathematics and Statistics over the course of 3 months. 
     * Coordinated and involved parents in students' learning to ensure success.
     * Identified creative ways to reiterate complex topics in student classes.
     
 Vinyl Status | Sticker Staff | April 2021 - September 2022 (Redmond, WA)
+
     * Processed, Packaged, and Shipped 75+ orders daily, working 4-8 hour shifts 
     * Post Office Delivery Responsibilities and Order Fulfillment
     
 ## Volunteering
 
 King County Library System | Math Tutor | June 2022 - Aug 2022 (Sammamish, WA)
+
     * Developed and taught a weekly math curriculum to 12 students over 10 weeks
     * Coordinated and involved assistant tutors and rovers to create a cohesive lesson plan
     * Managed relationships with students, parents, and educators to ensure student success
