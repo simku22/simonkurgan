@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<iframe width="100%" height="1804" frameborder="0"
+  src="https://observablehq.com/embed/5d066888c4a79532@423?cells=image"></iframe>
+  
 Hello! I'm Simon. I'm a freshman at the University of Washington studying Information Technology (Software Development & Information Architecture). I'm currently exploring coursework and projects in data visualization and data engineering, as I gear up for research and work this upcoming year. Here you can find listed my relevant work experience, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20.
 
 ## Work Experience
