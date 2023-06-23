@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-## Retail Route \| Shopping Navigational Tool
-### Sep. 2022 - Dec. 2022
+### Retail Route \| Shopping Navigational Tool
+Sep. 2022 - Dec. 2022
 
 Figma UI/UX Research Project
 
@@ -20,10 +20,8 @@ Technologies:
 - Figma
 - HTML/CSS
 
-## Huffman Code \| Data Compression Model 
-### May. 2023 - Jun. 2023
-
-Java-Based Data Compressor
+### Huffman Code \| Java Data Compression Model 
+May. 2023 - Jun. 2023
 
 My [Project](https://github.com/simku22/HuffmanCode) creates and maintains a "Huffman" code, which is a methodology for compressing text (compacting data) and decompressing (restoring compacted data to original data) text files. In abstract terms, this process changes the way in which different letters, numbers, and symbols are stored. It has the capacity to construct a new HuffmanCode from an array representing ASCII characters and their frequencies, construct a new HuffmanCode from explicit instructions about a previously made HuffmanCode, store the current HuffmanCode's code (blueprint) in a new file, and translate bits using the code into an interpretable message of text. Based on the Huffman Code Algorithm made by David Huffman in 1952.
 
