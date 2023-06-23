@@ -20,6 +20,9 @@ Technologies:
 - Figma
 - HTML/CSS
 
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-359fa202-b65f-4817-8b33-5b3fc5065ac5"></div>
+
 ### Huffman Code \| Java Data Compression Model 
 May. 2023 - Jun. 2023
 
