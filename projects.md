@@ -20,13 +20,10 @@ Technologies:
 - Figma
 - HTML/CSS
 
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-359fa202-b65f-4817-8b33-5b3fc5065ac5"></div>
-
 ### Huffman Code \| Java Data Compression Model 
 May. 2023 - Jun. 2023
 
-My [Project](https://github.com/simku22/HuffmanCode) creates and maintains a "Huffman" code, which is a methodology for compressing text (compacting data) and decompressing (restoring compacted data to original data) text files. In abstract terms, this process changes the way in which different letters, numbers, and symbols are stored. It has the capacity to construct a new HuffmanCode from an array representing ASCII characters and their frequencies, construct a new HuffmanCode from explicit instructions about a previously made HuffmanCode, store the current HuffmanCode's code (blueprint) in a new file, and translate bits using the code into an interpretable message of text. Based on the Huffman Code Algorithm made by David Huffman in 1952.
+[My Project](https://github.com/simku22/HuffmanCode) creates and maintains a "Huffman" code, which is a methodology for compressing text (compacting data) and decompressing (restoring compacted data to original data) text files. In abstract terms, this process changes the way in which different letters, numbers, and symbols are stored. It has the capacity to construct a new HuffmanCode from an array representing ASCII characters and their frequencies, construct a new HuffmanCode from explicit instructions about a previously made HuffmanCode, store the current HuffmanCode's code (blueprint) in a new file, and translate bits using the code into an interpretable message of text. Based on the Huffman Code Algorithm made by David Huffman in 1952.
 
 Skills:
 - Well-Designed Java Classes (OOP)
