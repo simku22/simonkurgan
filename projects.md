@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-## Retail Route \| Shopping Navigational Tool \| Sep. 2022 - Dec. 2022
+## Retail Route \| Shopping Navigational Tool
+### Sep. 2022 - Dec. 2022
 
 Figma UI/UX Research Project
 
@@ -19,7 +20,8 @@ Technologies:
 - Figma
 - HTML/CSS
 
-## Huffman Code \| Data Compression Model \| May. 2023 - Jun. 2023
+## Huffman Code \| Data Compression Model 
+### May. 2023 - Jun. 2023
 
 Java-Based Data Compressor
 
