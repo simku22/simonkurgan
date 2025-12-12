@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hello! I'm Simon. 
+Hello! I'm Simon.
 
-I'm a sophomore at the University of Washington studying Information Technology (Software Development & Human-Computer Interaction), as well as a Jr. SDE at Amazon. 
+I'm a senior at the University of Washington pursuing a B.S. in Informatics and a B.A. in Mathematics (GPA: 3.9, graduating June 2026). I currently work as a Jr. Software Developer III at Amazon, where I've been since November 2023.
 
-On this site you can find some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20. Navigate to the photography tab to see my updated portfolio! [(or just click here)](https://simku22.github.io/refactored-website).
+When I'm not coding, I've been producing music for over 5 years and doing digital/film photography with my Canon A-1 and Fuji XT-20 [(view my photography portfolio)](https://simku22.github.io/refactored-website).
 
-This site will likely not exist soon, but enjoy the relic while its still live :>
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/simonkurgan) or check out my work on [GitHub](https://github.com/simku22)!
