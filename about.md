@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! I'm Simon.
 
-I'm a junior at the University of Washington pursuing a B.S. in Informatics and a B.A. in Mathematics (GPA: 3.9, graduating June 2026). I currently work as a Jr. Software Developer III at Amazon, where I've been since November 2023.
+I'm a senior at the University of Washington pursuing a B.S. in Informatics and a B.A. in Mathematics (GPA: 3.9, graduating June 2026). I currently work as a Jr. Software Developer III at Amazon, where I've been since November 2023.
 
 At Amazon, I've had the opportunity to work on impactful projects including redesigning tier-2 APIs with Fargate and Docker, migrating CloudSearch domains to serverless OpenSearch, and developing full-stack workflow visibility dashboards. I'm passionate about building scalable systems and solving complex engineering problems.
 
